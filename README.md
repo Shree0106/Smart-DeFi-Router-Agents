@@ -597,21 +597,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🌟 Star History
 
-If you find this project useful, please consider giving it a ⭐️!
-
-[![Star History Chart](https://github.com/Shree0106/Smart-DeFi-Router-Agents)](https://github.com/Shree0106/Smart-DeFi-Router-Agents)
----
-
-<div align="center">
-
-### 🚀 **Maximizing DeFi Returns Through AI-Powered Intelligence** 🚀
-
-**Built with ❤️ for Arc + AI + USDC Hackathon**
-
-*Last Updated: November 2025*
-
-[⬆ Back to Top](#-smart-defi-router-agents)
 
 </div>
