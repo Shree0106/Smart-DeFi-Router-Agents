@@ -1,0 +1,39 @@
+{
+  "routerAddress": "0x2762ce47D9A3C74FD8B959802e367faD05c2B2a0",
+  "usdcToken": "0xDFE3A8cd9B80359f760eF4A432d0e535E6957Fd2",
+  "network": "arc_testnet",
+  "deployer": "0xfEc13F54150E2eDf64A07A8BBE8672E10a35e9Cd",
+  "timestamp": "2025-11-09T00:17:33.992Z",
+  "protocols": [
+    {
+      "address": "0x1111111111111111111111111111111111111111",
+      "name": "Arc Lending Protocol",
+      "riskScore": 25,
+      "currentYield": 850
+    },
+    {
+      "address": "0x2222222222222222222222222222222222222222",
+      "name": "Arc Staking Pool",
+      "riskScore": 30,
+      "currentYield": 720
+    },
+    {
+      "address": "0x3333333333333333333333333333333333333333",
+      "name": "Arc Liquidity Pool",
+      "riskScore": 45,
+      "currentYield": 910
+    },
+    {
+      "address": "0x4444444444444444444444444444444444444444",
+      "name": "Arc Yield Vault",
+      "riskScore": 20,
+      "currentYield": 650
+    },
+    {
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Arc Strategy Pool",
+      "riskScore": 35,
+      "currentYield": 780
+    }
+  ]
+}
